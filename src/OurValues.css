@@ -1,0 +1,55 @@
+.our-values {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.values {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.innovative,
+.loyalty,
+.respect {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin-left: 18px;
+  padding: 18px;
+  color: white;
+}
+
+.values h3 {
+  margin: 5px;
+}
+
+.innovative {
+  background-color: #ea7c6f;
+}
+
+.loyalty {
+  background-color: #6a996f;
+}
+
+.respect {
+  background-color: #5696c2;
+}
+
+.trianglePink {
+  width: 0;
+  height: 0;
+  border-top: 18px solid transparent;
+  border-left: 18px solid #e9685a;
+  border-bottom: 18px solid transparent;
+}
+
+.triangleGreen {
+  width: 0;
+  height: 0;
+  border-top: 18px solid transparent;
+  border-left: 18px solid #56925c;
+  border-bottom: 18px solid transparent;
+}
