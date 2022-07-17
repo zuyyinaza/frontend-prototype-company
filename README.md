@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 <b>Deploy:<b>
-[Frontend Prototype Company](https://frontend-prototype-company-zuyyina.netlify.app/)
+[Frontend Prototype Company Zuyyina](https://frontend-prototype-company-zuyyina.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
